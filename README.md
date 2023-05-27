@@ -73,3 +73,5 @@ Run the spring boot application
 7. Open your web browser and access the application at http://localhost:3000.
 
 
+## Screenshot of ui
+![image](https://github.com/satyam-9/Kinara-Capital-SDE-assigment/assets/58043576/a6a8f4fb-b386-44f5-80c1-5c2117a3d671)
