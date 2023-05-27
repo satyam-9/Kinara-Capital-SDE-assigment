@@ -41,8 +41,6 @@ This project is a student grid application that allows you to view, filter, and 
 [Spring.io]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [Spring-url]: https://spring.io/
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Prerequisites
 
 - Node.js and npm should be installed on your machine.
