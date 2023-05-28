@@ -22,6 +22,7 @@ which will then return the filtered results to the UI.
 ### Descriptions
 
 This project is a student grid application that allows you to view, filter, and add student details. It provides a user-friendly interface to display student information and perform actions such as filtering by name and total marks, adding new students, and pagination.
+The frontend is build with React.js and the backend is build with java spring boot, along with the for the database MySQL is used.
 
 ### Features
 
@@ -34,12 +35,16 @@ This project is a student grid application that allows you to view, filter, and 
 
 * [![Spring][Spring.io]][Spring-url]
 * [![React][React.js]][React-url]
+* [![MySQL][MySQL.com]][MySQL-url]
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
 [Spring.io]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [Spring-url]: https://spring.io/
+
+[MySQL.com]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://mysql.com/
 
 ### Prerequisites
 
