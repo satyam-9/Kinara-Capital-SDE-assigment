@@ -1,4 +1,3 @@
-# Kinara-Capital-SDE-assigment
 ## Objective
 
 The objective of this test assignment is to develop a grid system with filtering functionality in the
