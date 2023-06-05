@@ -1,3 +1,4 @@
+<!--
 ## Objective
 
 The objective of this test assignment is to develop a grid system with filtering functionality in the
@@ -17,7 +18,7 @@ which will then return the filtered results to the UI.
 
 
 ## Getting Started with the solution
-
+-->
 ### Descriptions
 
 This project is a student grid application that allows you to view, filter, and add student details. It provides a user-friendly interface to display student information and perform actions such as filtering by name and total marks, adding new students, and pagination.
